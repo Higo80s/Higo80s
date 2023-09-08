@@ -1,6 +1,6 @@
 # Apresentação Pessoal
 
-Olá! Sou Higo, um estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento front-end com JavaScript, CSS e HTML.
+Olá! Sou Higo, um estudante de Análise e Desenvolvimento de Sistemas, tenho interesse em desenvolvimento front-end com JavaScript, CSS e HTML.
 
 ## Sobre Mim
 
