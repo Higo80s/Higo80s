@@ -22,7 +22,7 @@ Here are some of my front-end development skills:
 
 Check out some of my recent projects:
 
-- [Project 1]([link](https://github.com/Higo80s/projetoEventoP-G)): Criação de página de evento institucional para divulgação e cadastro.
+- [Project 1] https://github.com/Higo80s/projetoEventoP-G : Criação de página de evento institucional para divulgação e cadastro.
 - [Project 2](link): Brief description of project 2.
 - [Project 3](link): Brief description of project 3.
 
