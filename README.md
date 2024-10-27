@@ -1,26 +1,40 @@
-# Personal Introduction
+Hello! 
 
-Hello! I'm Higo, a student in the field of Analysis and Systems Development, with a keen interest in front-end development using JavaScript, CSS, and HTML.
+I'm Higo, a public servant with a background in Portuguese and Spanish (graduation). I hold a Master's degree in Education, focusing on Public Policies and Educational Systems. My research interests include the internationalization of postgraduate programs, governance, and organizational culture. I am currently studying Analysis and Systems Development (ADS) and am also delving into database systems.
 
-## About Me
+Skills:
 
-- 🎓 Currently, I am pursuing a degree in Analysis and Systems Development.
-- 💼 I have a special interest in creating amazing and interactive user interfaces.
-- 🌱 I am always learning and staying updated on the latest front-end technologies.
-- 🔍 I am actively seeking opportunities to collaborate on interesting front-end projects.
+Educational Research: Expertise in public policies and educational systems.
 
-## Skills
+Internationalization: Research on the globalization of postgraduate education.
 
-Here are some of my front-end development skills:
+Governance and Organizational Culture: Studies on structures and cultural dynamics within educational institutions.
 
-- HTML5: Solid structuring for web content.
-- CSS3: Styling and responsive design.
-- JavaScript (JS): Building interactive and dynamic functionalities.
-- Scientific Publishing: Experience in scientific journal publishing using the OJS3 platform.
+ADS: Knowledge in Analysis and Systems Development.
+
+Database Systems: Management and development of databases.
 
 
-## Contact
+Contact: https://www.linkedin.com/in/higosantos/
 
-Ready to collaborate or just have a chat? You can reach me at:
 
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/higo-santos802419)
+-------------------------
+
+Olá! 
+
+Eu sou o Higo, um servidor público com formação em Português e Espanhol (graduação). Tenho um mestrado em Educação, com foco em Políticas Públicas e Sistemas Educacionais. Meus interesses de pesquisa incluem a internacionalização dos programas de pós-graduação, governança e cultura organizacional. Atualmente, estou estudando Análise e Desenvolvimento de Sistemas (ADS) e também me dedicando a sistemas de banco de dados.
+
+Habilidades:
+
+Pesquisa Educacional: Especializado em políticas públicas e sistemas educacionais.
+
+Internacionalização: Pesquisa sobre a globalização da educação de pós-graduação.
+
+Governança e Cultura Organizacional: Estudos sobre estruturas e dinâmicas culturais dentro de instituições educacionais.
+
+ADS: Conhecimento em Análise e Desenvolvimento de Sistemas.
+
+Sistemas de Banco de Dados: Gestão e desenvolvimento de bancos de dados.
+
+
+Contato: https://www.linkedin.com/in/higosantos/
